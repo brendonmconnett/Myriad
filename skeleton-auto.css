@@ -61,7 +61,7 @@
     font-size: 100%; }
 
   /* Dark/light mode detection (comment this section out and use the one below for a fixed background color) */
-/*     @media (prefers-color-scheme: dark) {
+    @media (prefers-color-scheme: dark) {
       body {
         font-size: 18px;
         line-height: 24px;
@@ -80,7 +80,7 @@
         font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         color: #222; }
     }
- */
+
 /* Use this for a fixed background color instead of dark and light mode
     body {
       font-size: 18px;
