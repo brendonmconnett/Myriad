@@ -17,7 +17,7 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.container {
+/* .container {
     position: relative;
     width: 100%;
     max-width: 600px;
@@ -29,16 +29,16 @@
     width: 100%;
     float: center;
     box-sizing: border-box; }
-  
+   */
   /* For devices larger than 400px */
-  @media (min-width: 400px) {
+/*   @media (min-width: 400px) {
     .container {
       width: 85%;
       padding: 0; }
-  }
+  } */
   
   /* For devices larger than 550px */
-  @media (min-width: 550px) {
+/*   @media (min-width: 550px) {
     .container {
       width: 80%; }
     .column,
@@ -48,7 +48,7 @@
     .columns:first-child {
       margin-left: 0; }
   
-  }
+  } */
   
   
   /* Base Styles
